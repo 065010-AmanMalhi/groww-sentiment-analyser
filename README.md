@@ -180,6 +180,5 @@ Finance app reviews have clear, opinionated language — users either love the U
 ---
 
 <div align="center">
-Built as Project 1 of a two-part RNN series<br/>
-<b>Project 2:</b> LSTM Stock Price + News Sentiment Predictor (coming soon)
+Built as Project 1 of RNN <br/>
 </div>
